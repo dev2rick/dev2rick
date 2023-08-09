@@ -1,4 +1,4 @@
-### Hi there 👋
+![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev2rick&show_icons=true&theme=radical)
 
 <!--
 **dev2rick/dev2rick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
